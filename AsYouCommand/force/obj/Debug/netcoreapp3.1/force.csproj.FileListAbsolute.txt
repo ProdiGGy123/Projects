@@ -1,0 +1,3 @@
+C:\Users\macbe\Desktop\Bewijzenmap\Periode1.2\PRO\AsYouCommand\force\obj\Debug\netcoreapp3.1\force.csprojAssemblyReference.cache
+C:\Users\macbe\Desktop\Bewijzenmap\Periode1.2\PRO\AsYouCommand\force\obj\Debug\netcoreapp3.1\force.AssemblyInfoInputs.cache
+C:\Users\macbe\Desktop\Bewijzenmap\Periode1.2\PRO\AsYouCommand\force\obj\Debug\netcoreapp3.1\force.AssemblyInfo.cs

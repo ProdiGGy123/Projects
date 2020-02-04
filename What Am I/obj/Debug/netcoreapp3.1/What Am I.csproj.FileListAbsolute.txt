@@ -1,0 +1,11 @@
+C:\Users\macbe\Desktop\Bewijzenmap\Periode1.2\PRO\What Am I\obj\Debug\netcoreapp3.1\What Am I.csprojAssemblyReference.cache
+C:\Users\macbe\Desktop\Bewijzenmap\Periode1.2\PRO\What Am I\obj\Debug\netcoreapp3.1\What Am I.AssemblyInfoInputs.cache
+C:\Users\macbe\Desktop\Bewijzenmap\Periode1.2\PRO\What Am I\obj\Debug\netcoreapp3.1\What Am I.AssemblyInfo.cs
+C:\Users\macbe\Desktop\Bewijzenmap\Periode1.2\PRO\What Am I\bin\Debug\netcoreapp3.1\What Am I.exe
+C:\Users\macbe\Desktop\Bewijzenmap\Periode1.2\PRO\What Am I\bin\Debug\netcoreapp3.1\What Am I.deps.json
+C:\Users\macbe\Desktop\Bewijzenmap\Periode1.2\PRO\What Am I\bin\Debug\netcoreapp3.1\What Am I.runtimeconfig.json
+C:\Users\macbe\Desktop\Bewijzenmap\Periode1.2\PRO\What Am I\bin\Debug\netcoreapp3.1\What Am I.runtimeconfig.dev.json
+C:\Users\macbe\Desktop\Bewijzenmap\Periode1.2\PRO\What Am I\bin\Debug\netcoreapp3.1\What Am I.dll
+C:\Users\macbe\Desktop\Bewijzenmap\Periode1.2\PRO\What Am I\bin\Debug\netcoreapp3.1\What Am I.pdb
+C:\Users\macbe\Desktop\Bewijzenmap\Periode1.2\PRO\What Am I\obj\Debug\netcoreapp3.1\What Am I.dll
+C:\Users\macbe\Desktop\Bewijzenmap\Periode1.2\PRO\What Am I\obj\Debug\netcoreapp3.1\What Am I.pdb
